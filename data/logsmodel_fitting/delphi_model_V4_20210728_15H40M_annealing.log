@@ -1,0 +1,928 @@
+07-29-2021 03:44:59 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 03:49:21 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 03:54:05 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 03:55:36 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 03:59:13 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 03:59:13 PM | ERROR | Initial model state file not found, can not train from 2020-10-01. Use model_V3 to train on entire data.
+07-29-2021 04:01:34 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:01:34 PM | ERROR | Initial model state file not found, can not train from 2020-10-01. Use model_V3 to train on entire data.
+07-29-2021 04:03:37 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:03:37 PM | ERROR | Initial model state file not found, can not train from 2020-10-01. Use model_V3 to train on entire data.
+07-29-2021 04:05:54 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:05:54 PM | ERROR | Initial model state file not found, can not train from 2020-10-01. Use model_V3 to train on entire data.
+07-29-2021 04:06:29 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:06:29 PM | INFO | Number of CPUs found and used in this run: 4
+07-29-2021 04:06:29 PM | INFO | Number of areas to be fitted in this run: 230
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Burkina Faso and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Burundi and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Austria and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Afghanistan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Chad and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Cabo Verde and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Azerbaijan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Chile and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Albania and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Algeria and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Colombia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Bahrain and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Cambodia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Andorra and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Bangladesh and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Cameroon and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Angola and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Barbados and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Antigua and Barbuda and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Alberta as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Belarus and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Argentina and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Comoros and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=British Columbia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Congo (Brazzaville) and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Belgium and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Manitoba as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Congo (Kinshasa) and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Armenia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=New Brunswick as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Costa Rica and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Belize and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Newfoundland and Labrador as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Cote d'Ivoire and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Benin and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Australian Capital Territory as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Nova Scotia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Croatia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Bhutan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Ontario as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=New South Wales as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Bolivia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Quebec as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Cuba and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Queensland as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Bosnia and Herzegovina and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=South Australia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Saskatchewan as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Central African Republic and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Tasmania as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Botswana and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Cyprus and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Czechia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Victoria as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Denmark and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Western Australia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Brazil and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Bulgaria and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Djibouti and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Guinea and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Dominican Republic and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Japan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Guinea-Bissau and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Jordan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Ecuador and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Guyana and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Egypt and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Kazakhstan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=El Salvador and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Haiti and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Madagascar and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Kenya and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Equatorial Guinea and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Honduras and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Estonia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Malawi and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Hungary and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Ethiopia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Korea, South and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Iceland and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Malaysia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Finland and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=India and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Kosovo and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Maldives and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Kuwait and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Mali and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=France and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Indonesia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Latvia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Malta and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Gabon and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Iran and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Lebanon and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Gambia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Mauritania and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Iraq and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Georgia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Lesotho and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Mauritius and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Germany and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Ireland and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Liberia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Mexico and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Ghana and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Israel and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Libya and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Moldova and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Monaco and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Italy and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Liechtenstein and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Greece and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Mongolia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Jamaica and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Lithuania and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Montenegro and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Luxembourg and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Guatemala and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Philippines and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Morocco and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Namibia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Poland and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Mozambique and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Slovakia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Slovenia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Nepal and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Portugal and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Netherlands and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Trinidad and Tobago and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Somalia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Qatar and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Tunisia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=New Zealand and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Romania and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=South Africa and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Turkey and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Russia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Nicaragua and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Alabama as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=South Sudan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Rwanda and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Alaska as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Niger and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Spain and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Nigeria and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Arizona as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Sri Lanka and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Sudan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=San Marino and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Arkansas as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Suriname and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=North Macedonia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=California as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Sweden and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Colorado as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Switzerland and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Connecticut as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Tajikistan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Sao Tome and Principe and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Delaware as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Saudi Arabia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Tanzania and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Norway and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=District of Columbia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Oman and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Senegal and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Thailand and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Pakistan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Serbia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Togo and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Florida as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=Panama and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Georgia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Seychelles and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Oceania, Country=Papua New Guinea and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Idaho as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Paraguay and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Sierra Leone and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Hawaii as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Illinois as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Peru and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Singapore and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Indiana as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Tennessee as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Nebraska as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Iowa as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Venezuela and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Texas as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Nevada as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Vietnam and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Kansas as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=New Hampshire as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Utah as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Kentucky as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Yemen and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Vermont as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=New Jersey as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Louisiana as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Zambia and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Maine as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Virginia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Maryland as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=New Mexico as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Massachusetts as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Zimbabwe and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Michigan as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Washington as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=New York as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Minnesota as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=West Virginia as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=North Carolina as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Mississippi as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Wisconsin as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Missouri as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=North Dakota as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Wyoming as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Ohio as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Africa, Country=Uganda and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Montana as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Oklahoma as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=Ukraine and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Oregon as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=United Arab Emirates and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Pennsylvania as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Europe, Country=United Kingdom and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=Rhode Island as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=South America, Country=Uruguay and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=South Carolina as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=Asia, Country=Uzbekistan and Province=None as no processed file available
+07-29-2021 04:06:29 PM | INFO | Skipping Continent=North America, Country=US and Province=South Dakota as no processed file available
+07-29-2021 04:06:29 PM | INFO | Finished the Multiprocessing for all areas
+07-29-2021 04:16:51 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:16:51 PM | INFO | Number of CPUs found and used in this run: 4
+07-29-2021 04:16:51 PM | INFO | Number of areas to be fitted in this run: 230
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Austria and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Burkina Faso and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Afghanistan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Burundi and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Azerbaijan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Albania and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Chad and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Cabo Verde and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Algeria and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Bahrain and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Chile and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Cambodia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Andorra and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Bangladesh and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Cameroon and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Angola and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Barbados and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Alberta as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Antigua and Barbuda and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Belarus and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Argentina and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=British Columbia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Manitoba as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Belgium and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Colombia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=New Brunswick as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Armenia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Australian Capital Territory as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Belize and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Newfoundland and Labrador as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Comoros and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=New South Wales as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Nova Scotia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Congo (Brazzaville) and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Benin and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Queensland as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Ontario as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=South Australia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Congo (Kinshasa) and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Quebec as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Tasmania as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Bhutan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Costa Rica and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Saskatchewan as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Victoria as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Cote d'Ivoire and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Bolivia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Central African Republic and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Croatia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Western Australia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Bosnia and Herzegovina and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Cuba and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Botswana and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Cyprus and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Ecuador and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Guinea and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Brazil and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Guinea-Bissau and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Egypt and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Czechia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Guyana and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Denmark and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=El Salvador and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Equatorial Guinea and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Djibouti and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Haiti and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Estonia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Honduras and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Dominican Republic and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Hungary and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Ethiopia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Bulgaria and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Iceland and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Japan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=India and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Jordan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Madagascar and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Kazakhstan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Finland and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Indonesia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Malawi and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Kenya and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=France and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Malaysia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Iran and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Korea, South and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Gabon and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Maldives and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Iraq and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Gambia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Mali and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Ireland and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Kosovo and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Georgia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Malta and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Kuwait and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Israel and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Germany and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Mauritania and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Latvia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Italy and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Ghana and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Mauritius and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Jamaica and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Lebanon and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Greece and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Mexico and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Guatemala and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Namibia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Moldova and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Monaco and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Nepal and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Lesotho and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Philippines and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Netherlands and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Mongolia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Poland and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=New Zealand and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Liberia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Portugal and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Montenegro and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Libya and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Nicaragua and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Liechtenstein and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Qatar and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Morocco and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Niger and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Lithuania and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Mozambique and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Nigeria and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Romania and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Luxembourg and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=North Macedonia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Russia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Norway and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Slovakia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Rwanda and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Oman and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Trinidad and Tobago and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Slovenia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Somalia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=San Marino and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Pakistan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Tunisia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Turkey and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Sao Tome and Principe and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=Panama and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Alabama as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=South Africa and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Saudi Arabia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Oceania, Country=Papua New Guinea and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=South Sudan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Senegal and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Alaska as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Paraguay and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Spain and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Arizona as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Serbia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Peru and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Sri Lanka and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Arkansas as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Seychelles and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Sudan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=California as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Sierra Leone and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Idaho as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Suriname and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Singapore and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Colorado as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Illinois as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Sweden and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Connecticut as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Nebraska as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Switzerland and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Indiana as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Nevada as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Tajikistan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Delaware as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Iowa as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Tanzania and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New Hampshire as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Kansas as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=District of Columbia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Thailand and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New Jersey as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Florida as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Kentucky as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Togo and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New Mexico as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Georgia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New York as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Hawaii as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Tennessee as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=North Carolina as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Louisiana as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=North Dakota as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Maine as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Texas as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Venezuela and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Ohio as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Maryland as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Vietnam and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Massachusetts as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Utah as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Oklahoma as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Yemen and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Michigan as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Oregon as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Vermont as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Virginia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Zambia and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Zimbabwe and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Washington as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Pennsylvania as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=West Virginia as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Minnesota as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Rhode Island as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Wisconsin as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Mississippi as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=South Carolina as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Wyoming as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=South Dakota as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Missouri as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Africa, Country=Uganda and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Montana as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=Ukraine and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=United Arab Emirates and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Europe, Country=United Kingdom and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=South America, Country=Uruguay and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Skipping Continent=Asia, Country=Uzbekistan and Province=None as no processed file available
+07-29-2021 04:16:51 PM | INFO | Finished the Multiprocessing for all areas
+07-29-2021 04:24:52 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:24:52 PM | INFO | Number of CPUs found and used in this run: 4
+07-29-2021 04:24:52 PM | INFO | Number of areas to be fitted in this run: 230
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Burkina Faso and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Austria and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Afghanistan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Chad and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Albania and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Azerbaijan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Burundi and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Chile and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Algeria and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Bahrain and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Colombia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Bangladesh and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Andorra and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Comoros and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Barbados and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Angola and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Congo (Brazzaville) and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Congo (Kinshasa) and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Belarus and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Antigua and Barbuda and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Costa Rica and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Argentina and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Belgium and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Armenia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Cote d'Ivoire and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Belize and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Croatia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Australian Capital Territory as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Benin and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Cuba and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Bhutan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=New South Wales as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Cyprus and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Bolivia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Queensland as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Czechia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Bosnia and Herzegovina and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Denmark and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=South Australia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Djibouti and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Tasmania as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Cabo Verde and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Botswana and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Dominican Republic and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Cambodia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Victoria as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Brazil and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Cameroon and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Western Australia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Bulgaria and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Alberta as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=British Columbia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Guinea and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Ecuador and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Manitoba as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Guinea-Bissau and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Japan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Jordan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Egypt and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=New Brunswick as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Guyana and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Kazakhstan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Haiti and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Newfoundland and Labrador as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=El Salvador and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Nova Scotia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Honduras and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Kenya and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Equatorial Guinea and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Estonia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Korea, South and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Hungary and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Ontario as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Ethiopia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Iceland and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Quebec as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=India and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Kosovo and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Finland and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Indonesia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=France and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Kuwait and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Saskatchewan as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Gabon and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Latvia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Iran and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Central African Republic and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Gambia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Lebanon and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Madagascar and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Iraq and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Georgia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Lesotho and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Malawi and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Germany and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Ireland and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Ghana and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Malaysia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Israel and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Greece and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Liberia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Maldives and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Italy and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Guatemala and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Libya and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Jamaica and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Mali and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Liechtenstein and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Malta and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Namibia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Lithuania and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Nepal and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Luxembourg and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Netherlands and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Philippines and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Mauritania and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Poland and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Mauritius and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Slovakia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Mexico and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Portugal and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Slovenia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Moldova and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Qatar and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Monaco and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Somalia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Romania and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=New Zealand and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Mongolia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=South Africa and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Russia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Montenegro and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=South Sudan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Rwanda and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Spain and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=San Marino and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Morocco and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Sri Lanka and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Sao Tome and Principe and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Mozambique and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Nicaragua and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Saudi Arabia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Sudan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Niger and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Trinidad and Tobago and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Suriname and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Senegal and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Nigeria and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Sweden and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Tunisia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=North Macedonia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Serbia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Norway and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Switzerland and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Seychelles and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Turkey and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Oman and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Tajikistan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Sierra Leone and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Alabama as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Pakistan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Tanzania and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Singapore and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=Panama and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Alaska as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Thailand and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Oceania, Country=Papua New Guinea and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Idaho as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Arizona as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Paraguay and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Arkansas as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Togo and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Peru and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=California as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Illinois as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Nebraska as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Tennessee as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Indiana as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Colorado as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Texas as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Connecticut as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Nevada as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Iowa as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Utah as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Kansas as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Delaware as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=New Hampshire as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Vermont as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=New Jersey as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Kentucky as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Virginia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=District of Columbia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Louisiana as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=New Mexico as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Washington as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Florida as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Maine as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Georgia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=West Virginia as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=New York as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Maryland as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Wisconsin as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=North Carolina as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Hawaii as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Massachusetts as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Wyoming as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=North Dakota as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Michigan as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Venezuela and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Uganda and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Minnesota as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Vietnam and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Ohio as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=Ukraine and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Yemen and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Oklahoma as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Mississippi as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=United Arab Emirates and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Zambia and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Oregon as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Missouri as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Europe, Country=United Kingdom and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Africa, Country=Zimbabwe and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Montana as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Pennsylvania as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=South America, Country=Uruguay and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=Rhode Island as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=Asia, Country=Uzbekistan and Province=None as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=South Carolina as no processed file available
+07-29-2021 04:24:52 PM | INFO | Skipping Continent=North America, Country=US and Province=South Dakota as no processed file available
+07-29-2021 04:24:52 PM | INFO | Finished the Multiprocessing for all areas
+07-29-2021 04:27:51 PM | INFO | The user is bhoom, the chosen optimizer for this run was annealing and generation of Confidence Intervals' flag is True
+07-29-2021 04:27:51 PM | INFO | Number of CPUs found and used in this run: 4
+07-29-2021 04:27:51 PM | INFO | Number of areas to be fitted in this run: 230
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Burkina Faso and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Austria and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Afghanistan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Chad and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Burundi and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Azerbaijan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Albania and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Bahrain and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Cabo Verde and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Chile and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Bangladesh and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Algeria and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Colombia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Barbados and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Cambodia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Comoros and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Andorra and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Cameroon and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Belarus and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Congo (Brazzaville) and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Alberta as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Angola and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Belgium and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Congo (Kinshasa) and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=British Columbia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Antigua and Barbuda and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Costa Rica and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Argentina and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Manitoba as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Belize and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Cote d'Ivoire and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=New Brunswick as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Benin and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Croatia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Newfoundland and Labrador as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Bhutan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Armenia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Bolivia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Cuba and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Nova Scotia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Cyprus and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Australian Capital Territory as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Ontario as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=New South Wales as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Bosnia and Herzegovina and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Quebec as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Czechia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Botswana and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Queensland as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Denmark and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=South Australia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Brazil and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Canada and Province=Saskatchewan as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Djibouti and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Tasmania as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Central African Republic and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Bulgaria and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Dominican Republic and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Victoria as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Ecuador and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Japan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Australia and Province=Western Australia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Jordan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Guinea and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Madagascar and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Egypt and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Guinea-Bissau and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Kazakhstan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Guyana and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=El Salvador and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Malawi and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Kenya and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Equatorial Guinea and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Haiti and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Korea, South and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Honduras and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Estonia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Kosovo and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Hungary and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Ethiopia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Kuwait and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Iceland and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Finland and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Latvia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=India and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=France and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Gabon and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Indonesia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Lebanon and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Gambia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Lesotho and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Iran and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Liberia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Georgia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Iraq and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Libya and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Germany and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Ireland and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Ghana and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Israel and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Liechtenstein and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Greece and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Italy and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Guatemala and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Lithuania and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Jamaica and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Luxembourg and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Namibia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Philippines and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Poland and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Slovakia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Nepal and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Portugal and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Slovenia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Netherlands and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Somalia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=New Zealand and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Qatar and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Nicaragua and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=South Africa and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Niger and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Romania and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=South Sudan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Nigeria and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Spain and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Russia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=North Macedonia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Rwanda and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Sri Lanka and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Norway and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=San Marino and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Sudan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Oman and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Sao Tome and Principe and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Suriname and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Saudi Arabia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Pakistan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Sweden and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=Panama and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Senegal and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Switzerland and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Serbia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Oceania, Country=Papua New Guinea and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Tajikistan and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Seychelles and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Paraguay and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Tanzania and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Peru and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Sierra Leone and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Singapore and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Trinidad and Tobago and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Idaho as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Tunisia and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Illinois as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Indiana as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Turkey and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Iowa as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Alabama as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Kansas as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Alaska as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Kentucky as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Arizona as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Arkansas as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Louisiana as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Maine as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=California as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Maryland as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Colorado as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Massachusetts as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Connecticut as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Delaware as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=District of Columbia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Michigan as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Minnesota as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Florida as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Mississippi as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Georgia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Missouri as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Hawaii as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Montana as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Nebraska as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Tennessee as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Nevada as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New Hampshire as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Texas as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New Jersey as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New Mexico as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Utah as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=New York as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Vermont as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=North Carolina as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Virginia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Washington as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=North Dakota as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Ohio as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=West Virginia as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Oklahoma as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Wisconsin as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Oregon as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Wyoming as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Pennsylvania as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Africa, Country=Uganda and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=Rhode Island as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=Ukraine and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=South Carolina as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=United Arab Emirates and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=North America, Country=US and Province=South Dakota as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Europe, Country=United Kingdom and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Venezuela and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=South America, Country=Uruguay and Province=None as no processed file available
+07-29-2021 04:27:51 PM | INFO | Skipping Continent=Asia, Country=Uzbekistan and Province=None as no processed file available

@@ -1,11 +1,11 @@
 filepaths:
   delphi_repo:
-    bhoom: /home/bhoom/linux_github/delphi.th
+    bhoom: /home/bhoom/linux_github/delphi.th/
   data_sandbox:
-    bhoom: /home/bhoom/linux_github/delphi.th/data/sandbox
+    bhoom: /home/bhoom/linux_github/delphi.th/data_sandbox/
   danger_map:
-    bhoom: /home/bhoom/linux_github/delphi.th/data/danger_map
+    bhoom: /home/bhoom/linux_github/delphi.th/danger_map/
   website:
-    bhoom: /home/bhoom/linux_github/delphi.th/data/website
+    bhoom: /home/bhoom/linux_github/delphi.th/website/
   logs:
-    bhoom: /home/bhoom/linux_github/delphi.th/data/logs
+    bhoom: /home/bhoom/linux_github/delphi.th/logs/
